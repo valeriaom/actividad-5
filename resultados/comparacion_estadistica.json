@@ -1,0 +1,9 @@
+{
+  "comparacion": [
+    "random_forest",
+    "regresion_logistica"
+  ],
+  "media_diferencia_auc": 0.007165705711090297,
+  "advertencia": "Wilcoxon con 5 folds es exploratorio; dependencia entre folds y baja potencia.",
+  "wilcoxon_p": 0.0625
+}

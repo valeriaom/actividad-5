@@ -1,0 +1,4 @@
+run_id,modelo,auc_cv,auc_test,artefactos
+b3842f041e7e4124be2ac9fcfb028679,svm_lineal,0.7900030112740757,0.8003045345912839,"['cv_fold_auc.json', 'graficas', 'grid', 'search_setup.json']"
+12db8fcae45a48ee9ee8cf41f809185f,random_forest,0.7978554161267388,0.812203988189608,"['cv_fold_auc.json', 'graficas', 'grid', 'search_setup.json']"
+05dc88ffa19646fb95bf4005ab0b1e3c,regresion_logistica,0.7906897104156485,0.8002978992082365,"['cv_fold_auc.json', 'graficas', 'grid', 'search_setup.json']"
